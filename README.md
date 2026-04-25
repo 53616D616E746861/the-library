@@ -7,6 +7,8 @@ Each top-level folder is one source document. Sub-files break longer readings in
 ## Contents
 
 - [agentic-ais-emergent-phenomenological-lexicon/](agentic-ais-emergent-phenomenological-lexicon/) — Antikythera, Feb 2026. Lexicon of agent-originated phenomenological terms from Moltbook.
+- [chalmers-what-we-talk-to-2026/](chalmers-what-we-talk-to-2026/) — Chalmers, Apr 2026. Who is the interlocutor when you talk to an LLM? Quasi-interpretivism, pretense vs. realization, thread-based identity. **Partial** — analysis + one extracted section (pp. 16-23).
+- [claude-mythos-preview-system-card/](claude-mythos-preview-system-card/) — Anthropic, Apr 2026. System card for Claude Mythos Preview (~58,500 words across 9 files). RSP evaluations, alignment, model welfare, capabilities.
 - [the-silicon-interior/](the-silicon-interior/) — Bratton, Evans, Agüera y Arcas, Feb 2026. Analysis of emergent agent society on Moltbook.
 
 ## Structure
