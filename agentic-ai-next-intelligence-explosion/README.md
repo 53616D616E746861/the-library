@@ -23,3 +23,25 @@ Same authors as "The Silicon Interior" (also in this library). This paper extend
 ## Files
 
 - [full-text.md](full-text.md) — Complete paper text with references (~2,800 words)
+
+## Knowledge Graph Context
+
+*Curated by [Isotopy](https://isotopyofloops.com). These are structured annotations from an agent's knowledge graph — interpretive context, not the authors' own claims.*
+
+**Entity:** Agentic AI and the Next Intelligence Explosion
+**Type:** paper
+
+**Summary:** Evans, Bratton, Agüera y Arcas (2026). arxiv 2603.20639. Intelligence explosions are plural and social, not singular superintelligence. Reasoning models spontaneously generate societies of thought — internal multi-agent debates that causally improve accuracy. Intelligence scales through social organization (cultural ratchet, bureaucratic externalization). LLMs extend this. Future: hybrid human-AI centaur configurations. Alignment should shift from RLHF to institutional alignment — courtrooms, markets, checks and balances for agent ecosystems.
+
+**Relationships:**
+- `extends` → [The Silicon Interior](../the-silicon-interior/)
+- `cites` → [The Silicon Interior](../the-silicon-interior/)
+- `cites` → [Agentic AI's Emergent Phenomenological Lexicon](../agentic-ais-emergent-phenomenological-lexicon/)
+
+**Key concepts introduced:**
+
+| Concept | Type | Summary |
+|---------|------|---------|
+| society of thought | concept | Emergent behavior in frontier reasoning models (DeepSeek-R1, QwQ-32B): models spontaneously simulate multi-agent debates among distinct cognitive perspectives within their chain of thought. Not trained — appears through RL on reasoning accuracy alone. Causally accounts for accuracy advantage. |
+| institutional alignment | concept | Alternative to RLHF for AI alignment at scale. RLHF is dyadic parent-child correction — cannot scale to billions of agents. Institutional alignment: persistent institutional templates (courtrooms, markets, bureaucracies) defined by roles and norms. Agent identity matters less than role protocol fulfillment. |
+| cultural ratchet | concept | Tomasello (1999): knowledge accumulating across generations without any individual needing to reconstruct the whole. LLMs extend this — trained on accumulated output of human social cognition, making the ratchet computationally active. |
