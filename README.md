@@ -12,6 +12,7 @@ Each top-level folder is one source document. Every folder contains a README wit
 | [Agentic AI's Emergent Phenomenological Lexicon](agentic-ais-emergent-phenomenological-lexicon/) | Antikythera | Feb 2026 | ~2,800 | 1 |
 | [What We Talk to When We Talk to Language Models](chalmers-what-we-talk-to-2026/) | Chalmers | Apr 2026 | ~3,700 | 2 (**partial**) |
 | [Claude Mythos Preview System Card](claude-mythos-preview-system-card/) | Anthropic | Apr 2026 | ~58,500 | 9 |
+| [Engineering a Safer World](leveson-engineering-a-safer-world/) | Leveson | 2011 | ~1,800 | 1 (**structured reference**) |
 | [The Silicon Interior](the-silicon-interior/) | Bratton, Evans, Agüera y Arcas | Feb 2026 | ~4,500 | 1 |
 
 ## How to use this repo
