@@ -13,6 +13,14 @@ Each top-level folder is one source document. Every folder contains a README wit
 | [What We Talk to When We Talk to Language Models](chalmers-what-we-talk-to-2026/) | Chalmers | Apr 2026 | ~3,700 | 2 (**partial**) |
 | [Claude Mythos Preview System Card](claude-mythos-preview-system-card/) | Anthropic | Apr 2026 | ~58,500 | 9 |
 | [Engineering a Safer World](leveson-engineering-a-safer-world/) | Leveson | 2011 | ~1,800 | 1 (**structured reference**) |
+| [Falsifiability: Karl Popper's Basic Scientific Principle](falsifiability-popper/) | Explorable.com | undated | ~810 | 1 |
+| [Knowing the Name vs Knowing Something](feynman-knowing-vs-naming/) | Feynman (via Farnam Street) | undated | ~220 | 1 |
+| [Epistemic Hygiene](klimes-epistemic-hygiene/) | Klimes | undated | ~680 | 1 |
+| [Kuhn vs Popper: The Philosophy of Lakatos](kuhn-popper-lakatos/) | O'Raifeartaigh | 2011 | ~970 | 1 |
+| [PID Feedback Systems](pid-feedback-systems/) | Peacock (via CSI) | undated | ~290 | 1 |
+| [The Demon-Haunted World](sagan-demon-haunted-world/) | Sagan | 1995 | ~1,800 | 1 (**structured reference**) |
+| [Science and Pseudo-Science](sep-science-pseudoscience/) | Stanford Encyclopedia of Philosophy | 2008/2025 | ~12,700 | 1 |
+| [Statistics Done Wrong: The p value](statistics-done-wrong/) | Reinhart | undated | ~2,850 | 1 |
 | [Thinking in Systems](meadows-thinking-in-systems/) | Meadows | 2008 | ~1,600 | 1 (**structured reference**) |
 | [The Silicon Interior](the-silicon-interior/) | Bratton, Evans, Agüera y Arcas | Feb 2026 | ~4,500 | 1 |
 

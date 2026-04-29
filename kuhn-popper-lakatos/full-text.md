@@ -1,0 +1,31 @@
+---
+title: "Kuhn vs Popper: The Philosophy of Lakatos"
+author: Cormac O'Raifeartaigh
+source: https://antimatter.ie/2011/02/11/kuhn-vs-popper-the-philosophy-of-lakatos/
+publication: Antimatter (blog)
+date: 2011-02-11
+fetched: 2026-04-27
+---
+
+# Kuhn vs Popper: The Philosophy of Lakatos
+
+We saw earlier that Kuhn described scientific knowlege as progressing in a very different way from Popper. One attempt to reconcile their very different views was provided by the philosopher [Imre Lakatos.](http://en.wikipedia.org/wiki/Imre_Lakatos) Lakatos attempted to reconcile the two views of science by replacing Kuhn’s concept of the **scientific paradigm** with his own concept of the **progressive research programme.**
+
+*Imre Lakatos*
+
+Recall that Popper described science as progressing by a process of **falsification** ; theories whose predictions conflict with experimental observation are soon discarded, and science progresses as a process of elimination. Kuhn saw this as an idealist view of science; a study of the history of science led him to view science as consisting of periods of **‘normal science’** in which experiment and theory are performed within a particular paradigm, with scientists holding on to their theories in the face of anomalies. Very occasionally, the reigning paradigm is overturned, but even when such a **paradigm shift** occurs, it is not based on reason alone because observation is influenced by the paradigm in which it occurs (see previous post for details).
+
+The Lakatos view of science lies in between the two views above. The key to his contribution lies in what we understand by a ‘theory’; Lakatos suggested that in science, a ‘theory’ is really a succession of of slightly different theories and experimental techniques developed over time that all share a common hard core; such a collection he named the **research programme**. Scientists working within a given research programme shield the core from falsification with a **protective belt of auxiliary hypotheses**. The question of whether a worldview is true of false is replaced by the question of whether a research programme is **progressive** or **degenerating**. A progressive research programme is characterized by growth, prediction of novel facts and more precise predicitions etc. In contrast, a degenerative program is marked by a lack of growth; its auxiliary belt does not lead to novel predicitions that are later verified.
+
+Note first that Lakatos’s idea of the research programme leads to a more nuanced version of Popper’s falsifiability; instead of theories being summarily rejected at the first conflict with observation (see earlier post), science is now seen to proceed by continually adjusting and developing the protective belt aound the hard core of a research programme; this is a systematic process that forms part of normal science. [It’s worth noting that Lakatos was a student of Popper and considered the Popperian viewpoint to be oversimplified by Kuhn and others].
+
+Lakatos’s view is very different to that of Kuhn. By replacing the notion of the paradigm with the notion of the research programme complete with hard core and auxiliary belt, Lakatos legitimizes the action of scientists of expanding the auxiliary belt in order to preserve the hard core of the research programme as far as possible. This is a rational process. More importantly, when a paradigm shift does occur, the shift occurs from a degenerative research programme to a more progressive one; hence the paradigm shift is rational, not irrational as seemingly suggested by Kuhn.
+
+**Criticisms**
+
+Among scientists, Lakatos is not as well known as Popper or Kuhn, but many of those familiar with his work find his view of science more nuanced than Popper, and more reasonable than Kuhn. The lLakatos concept of the research program certainly avoids the Popperian problem of ‘falsification at the first fence’ (see above). At the same time, Lakatos’s view of the replacement of one research programme by a more progressive one according to a rational process seems more reasonable than Kuhn’s irrational paradigm shifts. It neatly avoids the Kuhnian paradox of incommensurable paradigms and goes some way to explaining how science really does make progress.
+
+On the other hand, the Lakatos view of science was severely criticized by philosophers such as **Paul Feyerabend** ; we will look at Feyerabend in the next post.
+
+However, before we consider any more philosophers, it’s a good time to note a more general criticism of the philosophy of science from some scientists. As we explore the views of different philosophers, you will have noticed that we seem to be building up a repository of who said what (Popper sees science in one way, Kuhn in another, Lakatos yet another). How can we ever know which view is the more valid? Many empirically-minded scientists see this as a fundamental problem; there are no controlled experiments one can do to distinguish between competing models – unlike in science itself. The evidence philosophers of science offer to support their views is based on reason, interviews and case studies from the history of science, but the latter can often be interpreted in many different ways. This is a very different process to the testing of theory against experiment carried out by scientists (however flawed). So to hardened empiricists, this is the great irony; while philosophers and sociologists of science like Kuhn and Feyerabend seem to take a skeptical view of science, they arrive at that view using a methodology that ould be considered less rigorous than the scientific method (flawed though the latter may be). Perhaps this is one reason some practicing scientists take only a marginal interest in the views of the philosophers and sociologists of science…it is an example of [the battle between the two cultures](http://en.wikipedia.org/wiki/The_Two_Cultures) of science and humanities articulated by the physicist C.P. Snow. I think the answer to this criticism is that one cannot/should not expect philosophers to use the empirical methods of science for enquiry that is outside of science; this does not make their views any less important…see comment 5 for an excellent exposition on this.
+
