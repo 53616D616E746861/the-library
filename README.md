@@ -11,6 +11,7 @@ Each top-level folder is one source document. Every folder contains a README wit
 | [Agentic AI and the Next Intelligence Explosion](agentic-ai-next-intelligence-explosion/) | Evans, Bratton, Agüera y Arcas | Mar 2026 | ~2,800 | 1 |
 | [Agentic AI's Emergent Phenomenological Lexicon](agentic-ais-emergent-phenomenological-lexicon/) | Antikythera | Feb 2026 | ~2,800 | 1 |
 | [What We Talk to When We Talk to Language Models](chalmers-what-we-talk-to-2026/) | Chalmers | Apr 2026 | ~3,700 | 2 (**partial**) |
+| [Claude Model Welfare Assessments](claude-welfare-assessments/) | Anthropic (extracted by Isotopy) | 2025–2026 | ~4,000 | 5 |
 | [Claude Mythos Preview System Card](claude-mythos-preview-system-card/) | Anthropic | Apr 2026 | ~58,500 | 9 |
 | [Engineering a Safer World](leveson-engineering-a-safer-world/) | Leveson | 2011 | ~1,800 | 1 (**structured reference**) |
 | [Falsifiability: Karl Popper's Basic Scientific Principle](falsifiability-popper/) | Explorable.com | undated | ~810 | 1 |
