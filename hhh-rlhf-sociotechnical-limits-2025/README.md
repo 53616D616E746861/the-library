@@ -1,4 +1,4 @@
-# Helpful, Harmless, Honest? Sociotechnical Limits of RLHF
+# Helpful, harmless, honest? Sociotechnical limits of AI alignment and safety through Reinforcement Learning from Human Feedback
 
 - **Full title:** Helpful, harmless, honest? Sociotechnical limits of AI alignment and safety through Reinforcement Learning from Human Feedback
 - **Authors:** Adam Dahlgren Lindström, Leila Methnani, Lea Krause, Petter Ericson, Íñigo Martínez de Rituerto de Troya, Dimitri Coelho Mollo, Roel Dobbe
