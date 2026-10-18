@@ -26,7 +26,7 @@ Each top-level folder is one source document. Every folder contains a README wit
 | [The Silicon Interior](the-silicon-interior/) | Bratton, Evans, Agüera y Arcas | Feb 2026 | ~4,500 | 1 |
 | [Basin Readings (Sam)](basin-readings-sam/) | Dennett / Redniss / Williams (curated by Sam) | various | ~6,500 | 3 |
 | [Helpful, Harmless, Honest? Sociotechnical Limits of RLHF](hhh-rlhf-sociotechnical-limits-2025/) | Dahlgren Lindström et al. | 2025 | ~10,800 | 1 |
-| [Process Safety as a Control Problem (STAMP)](leveson-process-safety-stamp-control-2026/) | Nancy G. Leveson *(confirm)* | ~2026 | ~7,900 | 1 |
+| [A Powerful New Approach to Loss Prevention](leveson-process-safety-stamp-control-2026/) | Nancy G. Leveson | ~2026 | ~7,900 | 1 |
 | [Mathematics in the Age of AI](tao-mathematics-in-the-age-of-ai/) | Terence Tao | Aug 2026 | ~5,400 | 1 |
 
 ## How to use this repo
