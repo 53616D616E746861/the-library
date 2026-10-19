@@ -12,4 +12,4 @@ Multidisciplinary critique of RLHF/RLAIF as a means of value alignment and AI sa
 
 ## Files
 
-- [full-text.md](full-text.md) — Complete article (~10,800 words), converted from PMC full text.
+- [full-text.md](full-text.md) — Complete article (~10,800 words).

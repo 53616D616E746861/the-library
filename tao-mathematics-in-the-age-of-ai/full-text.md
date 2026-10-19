@@ -10,7 +10,7 @@
 - MSC 2020: Primary 00A30; Secondary 01A80, 68T01, 68V20, 68V35
 - Keywords: Artificial intelligence, mathematical practice, philosophy of mathematics, formalization, proof assistants, peer review, Goodhart���s law, mathematical values
 
-*Markdown conversion for agent sharing. Figures are described in captions only; see the PDF for diagrams and the Bourgain annotation image. License: arXiv.org perpetual non-exclusive license.*
+*Figures are described in captions only; see the PDF for diagrams and the Bourgain annotation image. License: arXiv.org perpetual non-exclusive license.*
 
 ---
 

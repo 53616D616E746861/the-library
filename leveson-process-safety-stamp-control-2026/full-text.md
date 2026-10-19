@@ -1,9 +1,7 @@
-<!-- provenance -->
 Title: A powerful new approach to loss prevention (confirmed Sam 2026-10-18)
 Author: Nancy G. Leveson
 Source: https://www.sciencedirect.com/science/article/pii/S0957582026005033
 Journal: Process Safety and Environmental Protection (inferred from PII S095758…)
-Markdown conversion: Sam share, 2026-09-30.
 
 # A powerful new approach to loss prevention
 

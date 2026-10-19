@@ -1,8 +1,6 @@
-<!-- provenance -->
 Source: https://doi.org/10.1007/s10676-025-09837-2
 Journal: Ethics and Information Technology (2025) 27:28
 PMC: PMC12137480 · PMID: 40486676
-Markdown conversion from PMC full text (Sam share, 2026-09-30).
 
 # Helpful, harmless, honest? Sociotechnical limits of AI alignment and safety through Reinforcement Learning from Human Feedback
 

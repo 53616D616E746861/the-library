@@ -12,4 +12,4 @@ Argues that traditional loss-prevention tools (HAZOP, fault trees, bow ties, PRA
 
 ## Files
 
-- [full-text.md](full-text.md) — Full article text as converted (~7,900 words). Title confirmed by Sam 2026-10-18.
+- [full-text.md](full-text.md) — Full article text (~7,900 words).
